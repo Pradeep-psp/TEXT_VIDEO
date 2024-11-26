@@ -1,2 +1,2 @@
 # TEXT_VIDEO
-based on user text crate a video
+based on user text and some inputs it creates a video
